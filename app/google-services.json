@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854315377051",
+    "firebase_url": "https://muskan-8e8de.firebaseio.com",
+    "project_id": "muskan-8e8de",
+    "storage_bucket": "muskan-8e8de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854315377051:android:522e4770636a4291",
+        "android_client_info": {
+          "package_name": "com.example.travelfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854315377051-9s94m7315qq66c21og9vhqqdr9dpg01q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelfriend",
+            "certificate_hash": "7c32ff520e00e5bbe6100c98d55721734a29631a"
+          }
+        },
+        {
+          "client_id": "854315377051-03650vnqq7lr56c2acqjj1ma50msh1nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0KRmE0qQwcZEFHr0RAanepRXc4gwui6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854315377051-03650vnqq7lr56c2acqjj1ma50msh1nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
